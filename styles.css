@@ -1,0 +1,18 @@
+#grid-container{
+    display: grid;
+    width: 500px;
+    height: 500px;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.gridCell{
+    border: 1px solid black;
+
+}
+
+.gridCell:hover{
+    background-color: blue;
+}
